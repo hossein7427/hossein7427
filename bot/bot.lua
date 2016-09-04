@@ -228,7 +228,10 @@ function create_config( )
       "weather",
       "xkcd",
       "youtube" },
-    sudo_users = {7427
+    sudo_users = {@hosseinkhani20
+      
+      
+
       
       },
     disabled_channels = {}
